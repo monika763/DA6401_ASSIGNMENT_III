@@ -3,12 +3,15 @@
 This repository contains a PyTorch implementation of the Transformer architecture from
 "Attention Is All You Need" for German to English translation on the Multi30k dataset.
 
-## Links
+**Github Link**
+```
+https://github.com/monika763/DA6401_ASSIGNMENT_III
+```
 
-W&B Public Report: `<paste your public W&B report link here>`
-
-GitHub Repository: `<paste your GitHub repository link here>`
-
+**Wandb Link**
+```
+https://api.wandb.ai/links/ma24m016-institution/6m8xp0sg
+```
 ## Project Structure
 
 ```text
